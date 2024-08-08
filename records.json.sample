@@ -1,0 +1,16 @@
+[
+    {
+        "name": "example.org",
+        "zone": "Z01234567AB0C0DEFGHIJ",
+        "ttl": 300,
+        "ip4": true,
+        "ip6": true
+    },
+    {
+        "name": "subdomain.example.org",
+        "zone": "Z01234567AB0C0DEFGHIJ",
+        "ttl": 300,
+        "ip4": true,
+        "ip6": true
+    },
+]

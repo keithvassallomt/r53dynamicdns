@@ -1,5 +1,9 @@
 # R53DyamicDns
 
+## Why this fork?
+
+This fork adds IPv6 support to the original script.
+
 ## What is it?
 This is a simple script to update A and AAAA records in AWS Route53 when you have a dynamic IP address. 
 
